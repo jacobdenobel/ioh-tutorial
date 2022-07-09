@@ -1,0 +1,12 @@
+suite = "unknown_suite", funcId = 1, funcName = "Sphere", DIM = 2, maximization = "F", algId = "RandomSearch(n=10, length=0.0)", algInfo = "algorithm_info"
+%
+data_f1_Sphere/IOHprofiler_f1_DIM2.dat, 1:4|4.66281, 1:7|0.378221, 1:4|1.48691
+suite = "unknown_suite", funcId = 1, funcName = "Sphere", DIM = 10, maximization = "F", algId = "RandomSearch(n=10, length=0.0)", algInfo = "algorithm_info"
+%
+data_f1_Sphere/IOHprofiler_f1_DIM10.dat, 1:8|32.9347, 1:3|47.3029, 1:7|81.09
+suite = "unknown_suite", funcId = 1, funcName = "Sphere", DIM = 2, maximization = "F", algId = "RandomSearch(n=10, length=0.0)", algInfo = "algorithm_info"
+%
+data_f1_Sphere/IOHprofiler_f1_DIM2.dat, 10:2|2.29103, 10:1|2.27659, 10:3|5.38035
+suite = "unknown_suite", funcId = 1, funcName = "Sphere", DIM = 10, maximization = "F", algId = "RandomSearch(n=10, length=0.0)", algInfo = "algorithm_info"
+%
+data_f1_Sphere/IOHprofiler_f1_DIM10.dat, 10:1|66.9455, 10:8|109.881, 10:6|46.5915
