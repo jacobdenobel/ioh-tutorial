@@ -1,3 +1,0 @@
-suite = "unknown_suite", funcId = 25, funcName = "StyblinskiTang", DIM = 2, maximization = "F", algId = "random-search", algInfo = "algorithm_info"
-%
-data_f25_StyblinskiTang/IOHprofiler_f25_DIM2.dat, 1:10|-46.3747
